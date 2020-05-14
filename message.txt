@@ -1,0 +1,33 @@
+IEEE RITB in collaboration with Tessellate Imaging presents a free webinar on Getting started with open challenges from kaggle, codalab, hackerearth using MonkAI 
+
+Monk is a low code deep learning toolkit and a unified wrapper for computer vision. It enables you to create, manage and version control deep learning experiments,to compare experiments across training metrics and also to quickly find best hyper-parameters. 
+
+Pre-requisites
+* Basic python programming 
+* Exposure to Deep learning terminologies 
+
+Speaker details
+
+* Abhishek Kumar Annamraju 
+CTO Tessellate Imaging 
+http://linkedin.com/in/abhishek-kumar-annamraju
+
+* AkashDeep Singh 
+Chairman and Co-founder at Tessellate Imaging 
+http://linkedin.com/in/akashdeepsingh01
+
+Date: 23rd May Saturday 2020 
+Time: 11:00 AM to 1:00 PM. 
+
+Platform for the webinar: WebEx 
+
+Registration link:
+https://bit.ly/2WO90M5
+
+Last day for registration is 21th May
+
+Registrants will get the link for webinar a day before it, on the mail id given by the registrant in the Google form.
+
+Contact details:
+Sinchana S R: +91 9538917997
+Prateek Pandey: +91 8757022843
