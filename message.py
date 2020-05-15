@@ -49,7 +49,7 @@ my_password = "ieeeritb2kevents"
 body_of_confirmation_message = """
 
 <h4>Thank You for registering to MonkAI workshop
-
+Webinar link will be mailed a day prior
 Further information will be conveyed through whatsapp. 
 Please join the group using the following link</h4>
 
